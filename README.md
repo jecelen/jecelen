@@ -12,7 +12,7 @@ I’m a Software Engineering student and AI Researcher at the [Federal Universit
 - 🎓 BSc in Software Engineering (2022 - Present) - UFMS  
   
 
-- 🎓 International Mobility - Computer Science (2024 - 2025) - University of Jaén (Completed)  
+- 🎓 International Mobility - Computer Science (2024 - 2025) - [University of Jaén](https://www.ujaen.es) (Completed)  
   
 
 <br/>  
