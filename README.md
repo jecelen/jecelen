@@ -68,21 +68,7 @@ I’m a Software Engineering student and AI Researcher at the [Federal Universit
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecelen&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## 📫 How to reach me: 
-<div align="center">
-<a href="https://github.com/jecelen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jecelen-adriane-campos" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/jecelenc" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<br/> 
   
 
 <div align="right">
