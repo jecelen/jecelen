@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jecelen Campos
 
-I’m a Software Engineering student and AI Researcher at the [ Federal University of Mato Grosso do Sul (UFMS) ] (https://www.ufms.br/) 👩‍💻  
+I’m a Software Engineering student and AI Researcher at the [Federal University of Mato Grosso do Sul (UFMS)](https://www.ufms.br/) 👩‍💻  
   
 
 🔭 Enthusiastic about optimizing user experiences, problem-solving and innovative solutions.  
